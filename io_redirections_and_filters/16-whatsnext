@@ -1,3 +1,2 @@
 #!/bin/bash
-grep -iA 3 "root" /etc/passwd
-You23:29
+grep -A 3 root /etc/passwd 
